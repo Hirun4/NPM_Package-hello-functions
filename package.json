@@ -1,11 +1,14 @@
 {
-  "name": "hello-functions",
+  "name": "hello-my-functions",
   "description": "My Package",
   "version": "0.0.1",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "homepage": "https://google.com",
+  "repository": {
+    "url": "https://github.com/Hirun4/NPM_Package-hello-functions"
+  },
   "scripts": {
     "build": "tsup"
   },
